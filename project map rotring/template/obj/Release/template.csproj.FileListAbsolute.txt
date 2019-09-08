@@ -1,0 +1,9 @@
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\bin\Release\template.exe.config
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\bin\Release\template.exe
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\bin\Release\template.pdb
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\obj\Release\template.exe
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\obj\Release\template.pdb
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\obj\Release\template.csprojResolveAssemblyReference.cache
+H:\visual\project map rotring\template\bin\Release\template.exe.config
+H:\visual\project map rotring\template\obj\Release\template.exe
+H:\visual\project map rotring\template\obj\Release\template.pdb

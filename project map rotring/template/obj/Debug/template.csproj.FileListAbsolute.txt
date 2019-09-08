@@ -1,0 +1,6 @@
+c:\users\abdo\documents\visual studio 2012\Projects\template\template\bin\Debug\template.exe.config
+c:\users\abdo\documents\visual studio 2012\Projects\template\template\bin\Debug\template.exe
+c:\users\abdo\documents\visual studio 2012\Projects\template\template\bin\Debug\template.pdb
+c:\users\abdo\documents\visual studio 2012\Projects\template\template\obj\Debug\template.exe
+c:\users\abdo\documents\visual studio 2012\Projects\template\template\obj\Debug\template.pdb
+C:\Users\Abdo\Documents\Visual Studio 2012\Projects\template\template\obj\Debug\template.csprojResolveAssemblyReference.cache
